@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2023-03-29T03:13:18.111Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="21.1.1" etag="7GTV8izw6bqCcR4j07Sx" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-29T03:18:18.328Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="qoYSgAb9k9ct_esfAqa6" version="21.1.1" type="github">
   <diagram name="Page-1" id="GSEBX4r_AxrBjunkPWFw">
-    <mxGraphModel>
+    <mxGraphModel dx="794" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="o9-E-uRhRPMIXP5sNrn1-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="o9-E-uRhRPMIXP5sNrn1-1" target="o9-E-uRhRPMIXP5sNrn1-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o9-E-uRhRPMIXP5sNrn1-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="330" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="o9-E-uRhRPMIXP5sNrn1-2" value="Put on Harness. Tie Rope to Harness. Approach Wall" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="230" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="o9-E-uRhRPMIXP5sNrn1-4" value="How to Rock Climb" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="330" y="10" width="130" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
