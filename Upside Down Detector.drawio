@@ -416,11 +416,11 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iBpimBe1-z4MmiKlYeH7-10" value="&lt;font style=&quot;font-size: 5px;&quot;&gt;CB1&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 5px;&quot;&gt;4A&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="83.75" y="63.75" width="30" height="40" as="geometry" />
+        <mxCell id="iBpimBe1-z4MmiKlYeH7-10" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;CB1&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;4A&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="78.75" y="63.75" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iBpimBe1-z4MmiKlYeH7-11" value="ON/OFF SW" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=5;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="155" y="160" width="50" height="20" as="geometry" />
+        <mxCell id="iBpimBe1-z4MmiKlYeH7-11" value="ON/OFF SW" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="140" y="155" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iBpimBe1-z4MmiKlYeH7-12" value="UPSIDE DOWN DETECTOR CABINET&lt;div&gt;12th Feb 2025&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="270" y="8" width="300" height="50" as="geometry" />
