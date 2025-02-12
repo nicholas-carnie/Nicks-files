@@ -422,6 +422,9 @@
         <mxCell id="iBpimBe1-z4MmiKlYeH7-11" value="ON/OFF SW" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=5;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="155" y="160" width="50" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="iBpimBe1-z4MmiKlYeH7-12" value="UPSIDE DOWN DETECTOR CABINET" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="270" y="18" width="300" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
