@@ -280,7 +280,7 @@
             <mxPoint x="280" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ThFaj4rnjqUS95xa0j-5-91" value="T1" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.plc_ladder.not_contact;" parent="1" vertex="1">
+        <mxCell id="ThFaj4rnjqUS95xa0j-5-91" value="T2" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.plc_ladder.not_contact;" parent="1" vertex="1">
           <mxGeometry x="220" y="1067.5" width="30" height="25" as="geometry" />
         </mxCell>
         <mxCell id="ThFaj4rnjqUS95xa0j-5-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ThFaj4rnjqUS95xa0j-5-87" target="ThFaj4rnjqUS95xa0j-5-91" edge="1">
@@ -332,7 +332,7 @@
         <mxCell id="ThFaj4rnjqUS95xa0j-5-110" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="990" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ThFaj4rnjqUS95xa0j-5-112" value="15/16" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="ThFaj4rnjqUS95xa0j-5-112" value="25/26" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="210" y="1038" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ThFaj4rnjqUS95xa0j-5-114" value="" style="endArrow=none;html=1;rounded=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
