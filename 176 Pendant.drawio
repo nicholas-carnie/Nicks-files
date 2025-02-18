@@ -286,6 +286,101 @@
         <mxCell id="r-EeKwnptwa9FQMb00Me-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.408;entryY=0.108;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="r-EeKwnptwa9FQMb00Me-76" target="r-EeKwnptwa9FQMb00Me-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="r-EeKwnptwa9FQMb00Me-78" value="Drive ON" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="457.5" y="554" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r-EeKwnptwa9FQMb00Me-79" value="End Feeder" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="452.5" y="630" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r-EeKwnptwa9FQMb00Me-80" value="Inlet Stop" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="457.5" y="760" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r-EeKwnptwa9FQMb00Me-81" value="Drive" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="467.5" y="860" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r-EeKwnptwa9FQMb00Me-83" value="Breakdown Disengage" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="415" y="690" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r-EeKwnptwa9FQMb00Me-85" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="1360" as="sourcePoint" />
+            <mxPoint x="40" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r-EeKwnptwa9FQMb00Me-86" value="L+" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="68" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r-EeKwnptwa9FQMb00Me-87" value="M" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="865" y="68" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r-EeKwnptwa9FQMb00Me-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="r-EeKwnptwa9FQMb00Me-88" target="r-EeKwnptwa9FQMb00Me-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r-EeKwnptwa9FQMb00Me-88" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="233" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r-EeKwnptwa9FQMb00Me-90" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="582" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r-EeKwnptwa9FQMb00Me-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="r-EeKwnptwa9FQMb00Me-90" target="r-EeKwnptwa9FQMb00Me-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r-EeKwnptwa9FQMb00Me-92" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1032" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r-EeKwnptwa9FQMb00Me-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="r-EeKwnptwa9FQMb00Me-92" target="r-EeKwnptwa9FQMb00Me-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r-EeKwnptwa9FQMb00Me-94" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="520" as="sourcePoint" />
+            <mxPoint x="840" y="960" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="840" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r-EeKwnptwa9FQMb00Me-95" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="840" y="960" as="sourcePoint" />
+            <mxPoint x="240" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r-EeKwnptwa9FQMb00Me-96" value="&lt;b&gt;CONTROL PANEL&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="488" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r-EeKwnptwa9FQMb00Me-97" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="1000" as="sourcePoint" />
+            <mxPoint x="240" y="1000" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="840" y="1000" />
+              <mxPoint x="840" y="1440" />
+              <mxPoint x="240" y="1440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r-EeKwnptwa9FQMb00Me-98" value="&lt;b&gt;PENDANT&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="235" y="968" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r-EeKwnptwa9FQMb00Me-99" value="Drive" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="467.5" y="1310" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r-EeKwnptwa9FQMb00Me-100" value="Inlet Stop" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="457.5" y="1210" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r-EeKwnptwa9FQMb00Me-101" value="Breakdown Disengage" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="427.5" y="1140" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r-EeKwnptwa9FQMb00Me-102" value="End Feeder" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="442.5" y="1080" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r-EeKwnptwa9FQMb00Me-103" value="Drive ON" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="462.5" y="1010" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
