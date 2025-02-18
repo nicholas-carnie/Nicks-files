@@ -27,10 +27,10 @@
           <mxGeometry x="625" y="358" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r-EeKwnptwa9FQMb00Me-5" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.selectorSwitch3Position2;elSwitchState=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="920" width="75" height="46" as="geometry" />
+          <mxGeometry x="457.5" y="890" width="75" height="46" as="geometry" />
         </mxCell>
         <mxCell id="r-EeKwnptwa9FQMb00Me-7" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.twoWaySwitch;aspect=fixed;elSwitchState=2;" vertex="1" parent="1">
-          <mxGeometry x="340" y="230" width="75" height="26" as="geometry" />
+          <mxGeometry x="457.5" y="790" width="75" height="26" as="geometry" />
         </mxCell>
         <mxCell id="r-EeKwnptwa9FQMb00Me-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="r-EeKwnptwa9FQMb00Me-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -55,6 +55,18 @@
             <mxPoint x="880" y="974.5454915364584" as="sourcePoint" />
             <mxPoint x="880" y="100" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="r-EeKwnptwa9FQMb00Me-15" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.pushbutton;aspect=fixed;elSwitchState=on;" vertex="1" parent="1">
+          <mxGeometry x="457.5" y="580" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r-EeKwnptwa9FQMb00Me-16" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.pushbutton;aspect=fixed;elSwitchState=on;" vertex="1" parent="1">
+          <mxGeometry x="457.5" y="650" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r-EeKwnptwa9FQMb00Me-17" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.twoWaySwitch;aspect=fixed;elSwitchState=2;" vertex="1" parent="1">
+          <mxGeometry x="350" y="240" width="75" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="r-EeKwnptwa9FQMb00Me-18" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.twoWaySwitch;aspect=fixed;elSwitchState=2;" vertex="1" parent="1">
+          <mxGeometry x="457.5" y="720" width="75" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
