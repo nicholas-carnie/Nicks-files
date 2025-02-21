@@ -123,21 +123,6 @@
         <mxCell id="r-EeKwnptwa9FQMb00Me-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.408;entryY=0.108;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="r-EeKwnptwa9FQMb00Me-48" target="r-EeKwnptwa9FQMb00Me-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="r-EeKwnptwa9FQMb00Me-54" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.selectorSwitch3Position2;elSwitchState=1;" parent="1" vertex="1">
-          <mxGeometry x="457.5" y="1340" width="75" height="46" as="geometry" />
-        </mxCell>
-        <mxCell id="r-EeKwnptwa9FQMb00Me-57" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.twoWaySwitch;aspect=fixed;elSwitchState=2;" parent="1" vertex="1">
-          <mxGeometry x="457.5" y="1240" width="75" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="r-EeKwnptwa9FQMb00Me-59" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.pushbutton;aspect=fixed;elSwitchState=on;" parent="1" vertex="1">
-          <mxGeometry x="457.5" y="1030" width="75" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="r-EeKwnptwa9FQMb00Me-61" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.pushbutton;aspect=fixed;elSwitchState=on;" parent="1" vertex="1">
-          <mxGeometry x="457.5" y="1100" width="75" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="r-EeKwnptwa9FQMb00Me-64" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.twoWaySwitch;aspect=fixed;elSwitchState=2;" parent="1" vertex="1">
-          <mxGeometry x="457.5" y="1170" width="75" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="r-EeKwnptwa9FQMb00Me-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="r-EeKwnptwa9FQMb00Me-66" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="450" y="1042.1666666666667" as="targetPoint" />
@@ -262,21 +247,6 @@
         </mxCell>
         <mxCell id="r-EeKwnptwa9FQMb00Me-98" value="&lt;b&gt;PENDANT&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="235" y="968" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="r-EeKwnptwa9FQMb00Me-99" value="Drive" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="470" y="1210" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="r-EeKwnptwa9FQMb00Me-100" value="Inlet Stop" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="460" y="1300" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="r-EeKwnptwa9FQMb00Me-101" value="Breakdown Disengage" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="427.5" y="1140" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="r-EeKwnptwa9FQMb00Me-103" value="Drive ON" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="462.5" y="1010" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Pc5fEkgWnDJ0rDliruo7-1" value="&lt;div&gt;Manual Operation&lt;/div&gt;End Feeder" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="432.5" y="1070" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Pc5fEkgWnDJ0rDliruo7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.8;exitDx=0;exitDy=0;" edge="1" parent="1" source="Pc5fEkgWnDJ0rDliruo7-3">
           <mxGeometry relative="1" as="geometry">
