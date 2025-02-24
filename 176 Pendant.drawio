@@ -31,9 +31,9 @@
         <mxCell id="r-EeKwnptwa9FQMb00Me-16" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.pushbutton;aspect=fixed;elSwitchState=on;" parent="1" vertex="1">
           <mxGeometry x="445" y="960" width="75" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="IDQg8fl6bIcZGyg7sgiW-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.88;exitDx=0;exitDy=0;" edge="1" parent="1" source="r-EeKwnptwa9FQMb00Me-17">
+        <mxCell id="IDQg8fl6bIcZGyg7sgiW-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.88;exitDx=0;exitDy=0;" edge="1" parent="1" source="r-EeKwnptwa9FQMb00Me-17">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="180" y="1010" as="targetPoint" />
+            <mxPoint x="180" y="1370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="r-EeKwnptwa9FQMb00Me-17" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.twoWaySwitch;aspect=fixed;elSwitchState=2;" parent="1" vertex="1">
