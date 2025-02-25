@@ -468,9 +468,6 @@
         <mxCell id="IDQg8fl6bIcZGyg7sgiW-130" value="A1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1200" y="570" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IDQg8fl6bIcZGyg7sgiW-131" value="17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1446" y="1120" as="geometry" />
-        </mxCell>
         <mxCell id="IDQg8fl6bIcZGyg7sgiW-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IDQg8fl6bIcZGyg7sgiW-125" target="IDQg8fl6bIcZGyg7sgiW-133">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1600" y="1063" as="targetPoint" />
@@ -602,6 +599,9 @@
         </mxCell>
         <mxCell id="IDQg8fl6bIcZGyg7sgiW-163" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
           <mxGeometry x="1500" y="790" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IDQg8fl6bIcZGyg7sgiW-164" value="Control Panel /&amp;nbsp;&lt;div&gt;Pendant C/O&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="132.5" y="425" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
