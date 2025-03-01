@@ -834,11 +834,6 @@
             <mxPoint x="710" y="322" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LTfsjZerTKmbOx1pItMa-1" value="15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vjsa3SwdwqbCo7F5nmTo-11">
-          <mxGeometry x="-0.3758" relative="1" as="geometry">
-            <mxPoint x="6" y="-2" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="vjsa3SwdwqbCo7F5nmTo-9" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.switchDisconnector;aspect=fixed;elSwitchState=off;" parent="1" vertex="1">
           <mxGeometry x="340" y="305" width="75" height="20" as="geometry" />
         </mxCell>
@@ -903,11 +898,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="390" as="sourcePoint" />
             <mxPoint x="710" y="390" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LTfsjZerTKmbOx1pItMa-2" value="16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vjsa3SwdwqbCo7F5nmTo-30">
-          <mxGeometry x="-0.3248" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vjsa3SwdwqbCo7F5nmTo-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vjsa3SwdwqbCo7F5nmTo-34" edge="1">
