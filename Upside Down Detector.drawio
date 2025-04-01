@@ -504,8 +504,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-SfcaAWegxMZZzWojZAm-33" value="Reset" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="507.5" y="568" width="50" height="30" as="geometry" />
+        <mxCell id="-SfcaAWegxMZZzWojZAm-33" value="RESET" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="502.5" y="565" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-SfcaAWegxMZZzWojZAm-36" value="CP1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="635" y="598" width="50" height="30" as="geometry" />
@@ -599,6 +599,9 @@
         </mxCell>
         <mxCell id="-SfcaAWegxMZZzWojZAm-65" value="Welder Shutdown&lt;div&gt;Relay&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="800" y="1294" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-SfcaAWegxMZZzWojZAm-66" value="13/14" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="695" y="1268" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
