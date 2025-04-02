@@ -594,11 +594,11 @@
         <mxCell id="-SfcaAWegxMZZzWojZAm-62" value="WELDER INTERLOCK" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="190" y="1440" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-SfcaAWegxMZZzWojZAm-63" value="Welder Shutdown&lt;div&gt;Counter&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="790" y="560" width="120" height="40" as="geometry" />
+        <mxCell id="-SfcaAWegxMZZzWojZAm-63" value="Welder Standby&lt;div&gt;Counter&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="795" y="560" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-SfcaAWegxMZZzWojZAm-65" value="Welder Shutdown&lt;div&gt;Relay&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="800" y="1294" width="120" height="40" as="geometry" />
+        <mxCell id="-SfcaAWegxMZZzWojZAm-65" value="Welder Standby&lt;div&gt;Relay&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="805" y="1294" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-SfcaAWegxMZZzWojZAm-66" value="13/14" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="695" y="1268" width="50" height="30" as="geometry" />
